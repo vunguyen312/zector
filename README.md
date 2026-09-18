@@ -19,8 +19,6 @@
   with Electron.js. </b>
 </p>
 
-<blockquote align="center">"Clock up!"</blockquote>
-
 
 ------------------------------------------------------------------------
 
